@@ -26,6 +26,7 @@ Here are some ideas to get you started:
   - :sparkles: React
   - :sparkles: Vue.js
   - :sparkles: Angular
+  - :sparkles: Bootstrap
 - 😄 Currently proficient in: HTML5 and CSS3
 - 🤔 I am currently looking for a job or intership in any of the following fields (or similar): software development, graphic web design, frontend development, software engineer.
 - 💬 Ask me about: Responsive web-design, music, and english literature.
