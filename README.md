@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 ##
 - 🔭 I’m currently working on the Dynamic WebApps section of the Software Development course at [CodeSpace Academy](https://www.linkedin.com/school/codespaceza/).
 - 🌱 By the end of this course I will be proficient in:
-  -:sparkles: JavaScript
-  -:sparkles: Github
-  -:sparkles: Git
-  -:sparkles: Lit
-  -:sparkles: Node.js
-  -:sparkles: React
-  -:sparkles: Vue.js
-  -:sparkles: Angular
+  - :sparkles: JavaScript
+  - :sparkles: Github
+  - :sparkles: Git
+  - :sparkles: Lit
+  - :sparkles: Node.js
+  - :sparkles: React
+  - :sparkles: Vue.js
+  - :sparkles: Angular
 - 😄 Currently proficient in: HTML5 and CSS3
 - 🤔 I am currently looking for a job or intership in any of the following fields (or similar): software development, graphic web design, frontend development, software engineer.
 - 💬 Ask me about: Responsive web-design, music, and english literature.
