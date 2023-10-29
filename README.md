@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   - :sparkles: Github
   - :sparkles: Git
   - :sparkles: Lit
-  - :sparkles: Node.js
+  - :sparkles: Node.js and NPM
   - :sparkles: React
   - :sparkles: Vue.js
   - :sparkles: Angular
