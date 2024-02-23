@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Ameryn! (they/she)
+# Hi there 👋 I'm Ameryn! (any/all)
 
 <!--
 **AmerynPeters/amerynpeters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
