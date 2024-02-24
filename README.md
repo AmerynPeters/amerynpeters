@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ##
-- 🔭 I’m currently working on the Dynamic WebApps section of the Software Development course at [CodeSpace Academy](https://www.linkedin.com/school/codespaceza/).
+- 🔭 I’m currently working on the UI Design Pro course on [Scrimba!](https://scrimba.com/)
 - 🌱 By the end of this course I will be proficient in:
   - :sparkles: JavaScript
   - :sparkles: Github
